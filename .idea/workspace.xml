@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ccc0b9b4-a2a4-4a70-acde-60089099fb24" name="Changes" comment="" />
+    <list default="true" id="ccc0b9b4-a2a4-4a70-acde-60089099fb24" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/algorithm/graph/UnionFindByRankAndPathCompression.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -128,7 +131,7 @@
       <workItem from="1689569661365" duration="4000" />
       <workItem from="1689651103087" duration="4598000" />
       <workItem from="1717693990237" duration="41000" />
-      <workItem from="1717694035228" duration="548000" />
+      <workItem from="1717694035228" duration="1739000" />
     </task>
     <servers />
   </component>
