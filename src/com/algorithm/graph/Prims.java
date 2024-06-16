@@ -54,6 +54,7 @@ public class Prims {
         continue;
       }
       totalSum += w;
+      visited[v] = true;
       for (Edge e : adjacencyList.get(v)) {
         if (!visited[e.v]) {
           pq.add(e);
